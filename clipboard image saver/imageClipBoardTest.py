@@ -8,3 +8,5 @@ img = ImageGrab.grabclipboard() #if the last thing you copied is an image, it re
 print(img)
 
 print(type(img))
+
+print(img.size)
